@@ -1,7 +1,7 @@
 {
-  "name": "visual-testing-project",
+  "name": "proyecto",
   "version": "1.0.0",
-  "description": "Proyecto de pruebas visuales",
+  "description": "Proyecto de pruebas",
   "main": "index.js",
   "scripts": {
     "test": "jest --config=jest.config.js",
